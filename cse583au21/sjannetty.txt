@@ -1,1 +1,7 @@
+Name: Sophia Jannetty
 
+Department: Biology
+
+Hobbies: violin, running, reading
+
+Project ideas: look for inflated p values in expression data clustering papers
