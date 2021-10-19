@@ -1,0 +1,7 @@
+Name: Bernease Herman
+
+Department: CSE by way of eScience Institute, also Information School
+
+Hobbies: weightlifting, rowing, vidya games
+
+Project ideas: make a cool tool for data scientists to evaluate their models
