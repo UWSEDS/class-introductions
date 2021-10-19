@@ -1,0 +1,7 @@
+Name: Katherine Chang
+
+Department: Education Policy (COE)
+
+Hobbies: Retro video games
+
+Project Ideas: Webscrapper tool for state legislature websites and text analysis of committee hearings 
